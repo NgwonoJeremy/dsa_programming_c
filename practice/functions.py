@@ -15,6 +15,5 @@ def getValues():
     result =max_min(list)
     print(f"value is {result}")
 
-
     
 getValues()
